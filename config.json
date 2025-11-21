@@ -1,11 +1,11 @@
 {
   "apiKey": "AIzaSyBl91t6ZJ_p0ore2fhTAlQyAFTTfeUjSws",
-  "spreadsheetId": "1O2mejFeuef-1h53LzKJNAspC2z2ALjbcZHDGzRIz9qU",
-  "timezone": "America/Denver",
+  "spreadsheetId": "1ax1W5bBqzHtOXRzE3yH4R_x5wpvMwNzY0wM4hKimyZs",
+  "timezone": "America/New York",
   "_comment": "Use start and end for countdown only",
   "startHour": 9,
   "startMinute": 0,
   "endHour": 18,
   "endMinute": 0,
-  "radarUrl": "https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTExMS42OTIsMzMuNDYyXSwibG9jYXRpb24iOlstMTExLjgzMiwzMy40MTVdLCJ6b29tIjo5LjkxNTY0OTI1NzYxMzk1NywibGF5ZXIiOiJicmVmX3FjZCJ9LCJhbmltYXRpbmciOmZhbHNlLCJiYXNlIjoic3RhbmRhcmQiLCJhcnRjYyI6ZmFsc2UsImNvdW50eSI6ZmFsc2UsImN3YSI6ZmFsc2UsInJmYyI6ZmFsc2UsInN0YXRlIjpmYWxzZSwibWVudSI6dHJ1ZSwic2hvcnRGdXNlZE9ubHkiOmZhbHNlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D"
+  "radarUrl": "https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTgzLjc5NCw0My4yNDZdLCJsb2NhdGlvbiI6Wy04My43OTQsNDMuMjQ2XSwiem9vbSI6NywibGF5ZXIiOiJicmVmX3FjZCJ9LCJhbmltYXRpbmciOmZhbHNlLCJiYXNlIjoic3RhbmRhcmQiLCJhcnRjYyI6ZmFsc2UsImNvdW50eSI6ZmFsc2UsImN3YSI6ZmFsc2UsInJmYyI6ZmFsc2UsInN0YXRlIjpmYWxzZSwibWVudSI6dHJ1ZSwic2hvcnRGdXNlZE9ubHkiOmZhbHNlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D"
 }
