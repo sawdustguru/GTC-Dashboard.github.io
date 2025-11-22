@@ -1,7 +1,7 @@
 {
   "apiKey": "AIzaSyBiWS56WaxP7LFeNQ6w09zY8SjQEe2sGf8",
   "spreadsheetId": "1ax1W5bBqzHtOXRzE3yH4R_x5wpvMwNzY0wM4hKimyZs",
-  "timezone": "America/New York",
+  "timezone": "America/New_York",
   "_comment": "Use start and end for countdown only",
   "startHour": 9,
   "startMinute": 0,
